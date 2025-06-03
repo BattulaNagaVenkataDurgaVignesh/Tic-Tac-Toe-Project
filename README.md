@@ -24,6 +24,6 @@ git clone https://github.com/BattulaNagaVenkataDurgaVignesh/Tic-Tac-Toe-Project.
 cd Tic-Tac-Toe-Project
 # Open index.html in your browser
 
-# 🔗 Live Demo
+**🔗 Live Demo**
 
 You can check out a live demo of this Tic-Tac-Toe game [here](https://marcft.github.io/tic-tac-toe/).
