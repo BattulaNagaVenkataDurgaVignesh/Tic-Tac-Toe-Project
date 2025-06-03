@@ -23,3 +23,7 @@ A responsive, two-player Tic-Tac-Toe web game built using **HTML**, **CSS**, and
 git clone https://github.com/BattulaNagaVenkataDurgaVignesh/Tic-Tac-Toe-Project.git
 cd Tic-Tac-Toe-Project
 # Open index.html in your browser
+
+# 🔗 Live Demo
+
+You can check out a live demo of this Tic-Tac-Toe game [here](https://marcft.github.io/tic-tac-toe/).
